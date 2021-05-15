@@ -2,7 +2,7 @@
 
 Rock Paper Scissors game with a bit of twist. 
 For all the big bang theory fans it will be very familiar to you 
-The Rules are as follows
+The Rules are as follows -> 
 Scissors cuts paper, 
 paper covers rock, 
 rock crushes lizard, 
